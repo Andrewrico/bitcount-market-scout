@@ -1,0 +1,25 @@
+{
+  "name": "bitcount-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send_report.js",
+  "type": "module",
+  "scripts": {
+    "start": "node send_report.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrewrico/bitcount-market-scout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrewrico/bitcount-market-scout/issues"
+  },
+  "homepage": "https://github.com/Andrewrico/bitcount-market-scout#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "nodemailer": "^8.0.7"
+  }
+}
